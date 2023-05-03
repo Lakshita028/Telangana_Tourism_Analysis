@@ -14,4 +14,4 @@ Findings & Suggestions -
 - A better traffic management would do wonders
 
 Please find the detailed explanation of the insights in the drive link attached.
-[![Drive link for Video Explanation and Dashboard](https://drive.google.com/drive/folders/1g3SRBi6bzizw_P1tADyLrb3x3f0wjuad)]
+[[Drive link for Video Explanation and Dashboard](https://drive.google.com/drive/folders/1g3SRBi6bzizw_P1tADyLrb3x3f0wjuad)]
