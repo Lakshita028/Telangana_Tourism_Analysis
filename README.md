@@ -6,7 +6,7 @@ Problem Statement - Telangana is one of India’s leading states and has publish
 Tools & Approach - Power BI, Python, Canva & Microsoft Excel
 
 Findings & Suggestions - 
-- Telangana State tourism development corporation - services are bad
+- Telangana State tourism development corporation's services are not upto the mark.
 - Hyderabad intake of domestic visitors has been drastically reducing.
 - States like Mulugu, Warangal (Rural), Mancherial, Hyderabad are the states with high potential of growth.
 - Govt. should make sure the tourism packages provided are worth and legally approved.
