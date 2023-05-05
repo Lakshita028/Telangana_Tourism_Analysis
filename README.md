@@ -10,7 +10,7 @@ Findings & Suggestions -
 - Hyderabad intake of domestic visitors has been drastically reducing.
 - States like Mulugu, Warangal (Rural), Mancherial, Hyderabad are the states with high potential of growth.
 - Govt. should make sure the tourism packages provided are worth and legally approved.
-- Organise cultural events specifically in the months of December, January, February, June
+- Govt. can organise cultural events specifically in the months of December, January, February, June
 - A better traffic management would do wonders
 
 Please find the detailed explanation of the insights in the drive link attached.
